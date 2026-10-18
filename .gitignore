@@ -8,9 +8,8 @@ __pycache__/
 
 # Environment variables
 .env
-.env.local
-.env.development
-.env.production
+.env.*
+!.env.example
 
 # Jupyter
 .ipynb_checkpoints/
@@ -32,3 +31,6 @@ dist/
 
 # Logs
 *.log
+
+# Project-local PostgreSQL build and data
+.local/

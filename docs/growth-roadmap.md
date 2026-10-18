@@ -22,3 +22,10 @@ Autonomous payment and order resolution for Nigerian SMEs.
 OgaFlow can evolve from a single operations agent into an agentic
 business operations layer across voice, messaging, web, and connected
 business systems.
+
+## Scope boundary
+
+MVP → OgaFlow SME Operations → specialized agents/tools → AI business operations
+layer. The MVP uses one orchestrator. Additional agents, expanded workflows and
+infrastructure are presentation roadmap items and require later approval; none
+are implemented in Phase 2.
